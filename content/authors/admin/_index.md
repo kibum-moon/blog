@@ -50,7 +50,7 @@ user_groups:
 - Principal Investigators
 ---
 
-Kibum Moon is a data scientist at Korea University (Office of digital information). 
+Kibum Moon is a data scientist at Korea University. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
