@@ -31,10 +31,10 @@ experience:
   date_end: ""
   date_start: "2019-10-01"
   description: |-
-    Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
+    * Analyzed the algorithms of QS World University Rankings and contributed to rising ranks 
+#    * Analysing
+#    * Modelling
+#    * Deploying
   location: Seoul
   title: Data Scientist
 - company: Student Counseling Center, Korea University
