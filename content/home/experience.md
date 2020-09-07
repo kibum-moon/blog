@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 50
+weight: 15
 
 title: Experience
 subtitle:
@@ -24,6 +24,7 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
+
 experience:
 - company: Office of Digital Information, Korea University
   company_url: ""
