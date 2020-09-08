@@ -4,8 +4,8 @@ external_link: ""
 image:
   caption: 
   focal_point: 
-summary: Explore the books of Korea Univerisity Library based on the 10 years of book loan records.
-slug: constell-of-books
+summary: 
+slug: demension-reduction-visualization
 authors:
 - admin
 
@@ -14,10 +14,8 @@ tags:
 - Demension reduction
 - Visualization
 - R
-- Shiny
-- Plotly
 
-title: The Constellations of Books
+title: Demension Reduction and Visualization
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -27,4 +25,3 @@ url_link: "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
 
 
 
-This is the result of visualizing the data of 1,310 randomly selected books out of 4,366 books of Korea University Library. Bayesian probability and UMAP algorithm were used for data analysis and visualization.
