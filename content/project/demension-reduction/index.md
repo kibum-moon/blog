@@ -6,7 +6,7 @@ image:
   focal_point: 
 summary: 
 slug: demension-reduction-visualization
-authors:
+authors: abs
 - admin
 
 tags:
@@ -20,8 +20,8 @@ url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-url_link: "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
 ---
+
 
 
 
