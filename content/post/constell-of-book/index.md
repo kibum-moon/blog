@@ -6,7 +6,7 @@ draft: false
 featured: false
 
 image:
-  caption: 'Click for [**the Constellations of Books**](https://koreauniv-datahub.shinyapps.io/constell_of_book/)'
+  caption: 'Click for the App: [**the Constellations of Books**](https://koreauniv-datahub.shinyapps.io/constell_of_book/)'
   focal_point: ""
   placement: 2
   preview_only: false
