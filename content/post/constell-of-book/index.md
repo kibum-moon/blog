@@ -21,7 +21,7 @@ tags:
 - R
 - Shiny
 - Plotly
-title: 'The constellations of Books'
+title: 'The Constellations of Books'
 ---
 
 
