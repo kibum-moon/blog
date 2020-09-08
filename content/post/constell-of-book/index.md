@@ -11,7 +11,9 @@ image:
   placement: 2
   preview_only: false
 lastmod: "2020-09-08"
-projects: [demension-reduction-visualization]
+projects: 
+- reverse-correlating-self-image
+
 subtitle: 
 summary: Explore the books of Korea Univerisity Library based on the 10 years of book loan records.
 tags:
