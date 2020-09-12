@@ -78,9 +78,13 @@ subtitle = ""
  # CSS class.
  css_class = ""
 
-[[url_custom]]
+[[url_app]]
     name = "Application Link"
     url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
 
+
+[[url_custom]]
+    name = "Application Link2"
+    url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
 +++
 
