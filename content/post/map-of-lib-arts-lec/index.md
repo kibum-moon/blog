@@ -6,7 +6,7 @@ draft: false
 featured: false
 
 image:
-  caption: 'Click for the App: [**The Map of Liberal Arts Lectures (Only for Korean)**](https://koreauniv-datahub.shinyapps.io/map_of_arts_lec/)'
+  caption: 'Click for the App: [**The Map of Liberal Arts Lectures (Korean)**](https://koreauniv-datahub.shinyapps.io/map_of_arts_lec/)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -14,7 +14,7 @@ image:
 # projects: 
 
 subtitle: 
-summary: Explore the map of liberal arts lectures based on course history big data.
+summary: Explore the map of liberal arts lectures based on the 10 years of Korea University's course history.
 
 tags:
 - Bayesian probability
@@ -24,7 +24,7 @@ tags:
 - R
 - Shiny
 
-title: 'The Map of Liberal Arts Lectures'
+title: 'The Interactive report of Psychological Assessment'
 ---
 
 

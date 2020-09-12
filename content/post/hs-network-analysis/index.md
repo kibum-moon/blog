@@ -15,7 +15,7 @@ image:
 
 subtitle: 
 
-summary: A dashboard for middle school teachers to inspect the peer network of students and their psychological properties. 
+summary: A dashboard for junior high school teachers to inspect the peer networks of students and their psychological properties. 
 
 tags:
 - Network analysis
@@ -24,10 +24,8 @@ tags:
 - R
 - Shiny
 
-title: 'HS Middle School Network Analysis'
+title: 'HS Junior High School Network Analysis'
 ---
 
+- Conducted network analysis of junior high school classes and built Shiny web applications using R to visualize the analyzed results
 
-
-
-This is the result of visualizing the data of 1,310 randomly selected books out of 4,366 books of Korea University Library. Bayesian probability and UMAP algorithm were used for data analysis and visualization.
