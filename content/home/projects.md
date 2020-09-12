@@ -46,10 +46,10 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   5 = Showcase
-  view = 5
+  view = 3
 
   # For Showcase view, flip alternate rows?
-  flip_alt_rows = true
+  flip_alt_rows = true5
 
 [design.background]
   # Apply a background color, gradient, or image.
@@ -77,5 +77,10 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+[[url_custom]]
+    name = "Application Link"
+    url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
+
 +++
 

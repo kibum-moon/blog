@@ -59,9 +59,6 @@ subtitle = ""
   # Text color (true=light or false=dark).
   # text_color_light = true  
   
-[[url_custom]]
-    name = "Application Link"
-    url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
     
     
 [advanced]
