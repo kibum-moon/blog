@@ -16,7 +16,7 @@ image:
 # projects: 
 
 subtitle: 
-summary: Explore the map of liberal arts lectures based on the 10 years of Korea University's course history.
+summary: Explore the liberal arts lectures based on the 10 years of Korea University's course history.
 
 tags:
 - Bayesian probability

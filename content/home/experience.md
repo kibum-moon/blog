@@ -32,7 +32,7 @@ experience:
   date_start: "2019-10-01"
   description: |-
     * Developed an AI based recommendation model of Liberal Arts courses for university students
-    * Analyzed the raw data of the QS World University Rankings and suggested a strategy for selecting evaluators that led to rising in rankings (83rd to 69th): A special citation was awarded to the Data Hub Team with incentives (2,000$)
+    * Analyzed the raw data of the QS World University Rankings and suggested a strategy for selecting evaluators, which contributed to rising in rankings (83rd to 69th): A special citation was awarded to the Data Hub Team with incentives (2,000$)
     * Hosted R programming and advanced statistics workshops for administrative officers
   location: Seoul
   title: Data Scientist
