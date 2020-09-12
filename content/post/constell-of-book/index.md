@@ -15,8 +15,11 @@ image:
 lastmod: "2020-09-08"
 projects: 
 
-url_app: "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
-
+[[url_app]]
+    name = "App"
+    url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
+    
+    
 subtitle: 
 summary: Explore the books of Korea Univerisity Library based on the 10 years of book loan records.
 tags:
