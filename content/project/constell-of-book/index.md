@@ -26,7 +26,7 @@ tags:
 
 title: 'The Constellations of Books'
 
-external_link: "[App Link](https://koreauniv-datahub.shinyapps.io/constell_of_book/)"
+external_link: "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
 
 ---
 

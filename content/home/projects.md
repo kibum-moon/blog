@@ -26,6 +26,10 @@ subtitle = ""
     tag = "*"
   
 [[content.filter_button]]
+    name = "Web-App"
+    tag = "Shiny"
+  
+[[content.filter_button]]
     name = "Psychological Assessment"
     tag = "Psychological assessment"
 
@@ -33,10 +37,6 @@ subtitle = ""
     name = "Big Data"
     tag = "Big data"
     
-[[content.filter_button]]
-    name = "Web-App"
-    tag = "Shiny"
-  
 
 
 #[[content.filter_button]]
