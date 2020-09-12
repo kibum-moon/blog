@@ -28,7 +28,8 @@ tags:
 - Shiny
 title: 'The Constellations of Books'
 
-# external_link: 'https://koreauniv-datahub.shinyapps.io/constell_of_book/'
+external_link = "[http://example.org](http://example.org/)"
+
 ---
 
 
