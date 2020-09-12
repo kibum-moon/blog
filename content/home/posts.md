@@ -24,12 +24,12 @@ subtitle = ""
   order = "desc"
 
   # Filter posts by a taxonomy term.
-  [content.filters]
-    tag = "Visualization"
-    category = ""
-    publication_type = ""
-    author = ""
-    exclude_featured = false
+[content.filters]
+  tag = ["Visualization"]
+  category = ["Web-App"]
+  publication_type = ""
+  author = ""
+  exclude_featured = false
   
 [design]
   # Toggle between the various page layout types.
