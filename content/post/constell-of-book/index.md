@@ -14,6 +14,8 @@ image:
   preview_only: false
 lastmod: "2020-09-08"
 projects: 
+
+category: 'Web-App'
     
 subtitle: 
 summary: Explore the books of Korea Univerisity Library based on the 10 years of book loan records.
