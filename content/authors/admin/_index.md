@@ -53,4 +53,4 @@ user_groups:
 Kibum Moon is a data scientist at Korea University. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://phk1-broadcast.officeapps.live.com/m/Broadcast.aspx?Fi=f3a8711950f5ecfb%5F278f9000%2Da23e%2D4055%2Db97c%2D587f5949a973%2Dasync%2Edocx" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
