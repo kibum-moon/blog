@@ -14,11 +14,6 @@ image:
   preview_only: false
 lastmod: "2020-09-08"
 projects: 
-
-[[url_custom]]
-    name = "App"
-    url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
-    
     
 subtitle: 
 summary: Explore the books of Korea Univerisity Library based on the 10 years of book loan records.
@@ -30,6 +25,11 @@ tags:
 - R
 - Shiny
 title: 'The Constellations of Books'
+
+
+#[[url_custom]]
+#    name = "App"
+#    url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
 ---
 
 
