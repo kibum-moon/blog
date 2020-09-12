@@ -27,6 +27,8 @@ tags:
 - Shiny
 
 title: 'HS Junior High School Network Analysis'
+external_link: "https://a072826.shinyapps.io/hwasoon_network/"
+
 ---
 
 - Conducted network analysis of junior high school classes and built Shiny web applications using R to visualize the analyzed results

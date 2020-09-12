@@ -27,7 +27,7 @@ tags:
 - Shiny
 
 title: 'The Map of Liberal Arts Lectures'
-
+external_link: "https://koreauniv-datahub.shinyapps.io/map_of_arts_lec/"
 ---
 
 

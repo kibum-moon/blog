@@ -23,6 +23,8 @@ tags:
 - R
 
 title: 'The Interactive report of Psychological Assessment'
+external_link: 'https://a072826.github.io/kibum_moon/19_2_KUSCC.html'
+
 ---
 
 
