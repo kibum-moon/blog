@@ -5,6 +5,7 @@ date: "2020-09-08"
 draft: false
 featured: false
 lastmode: "2020-09-08"
+category: ['Web-App']
 
 
 image:
@@ -15,7 +16,6 @@ image:
 lastmod: "2020-09-08"
 projects: 
 
-category: 'Web-App'
     
 subtitle: 
 summary: Explore the books of Korea Univerisity Library based on the 10 years of book loan records.
@@ -32,6 +32,7 @@ title: 'The Constellations of Books'
 #[[url_custom]]
 #    name = "App"
 #    url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
+
 ---
 
 
