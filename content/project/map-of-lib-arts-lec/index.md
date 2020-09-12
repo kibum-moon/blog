@@ -28,9 +28,6 @@ tags:
 
 title: 'The Map of Liberal Arts Lectures'
 
-url_custom = [{name = "Custom Link 1", url = "http://example.org"},
-              {name = "Custom Link 2", url = "http://example.org"}]
-              
 ---
 
 
