@@ -16,26 +16,21 @@
 #  url = "files/cv.pdf"
 #  weight = 11
 
-[[main]]
-  name = "Projects"
-  url = "#projects"
-  weight = 30
+#[[main]]
+#  name = "Experience"
+#  url = "#Experience"
+#  weight = 30
 
 [[main]]
   name = "Publications"
   url = "#featured"
   weight = 40
 
-
-# [[main]]
-#  name = "Courses"
-#  url = "courses/"
-#  weight = 50
-
 [[main]]
-  name = "Posts"
-  url = "#posts"
-  weight = 99
+  name = "Demo"
+  url = "#projects"
+  weight = 50
+
 
 
 #[[main]]
