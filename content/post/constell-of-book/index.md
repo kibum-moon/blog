@@ -4,6 +4,8 @@ authors:
 date: "2020-09-08"
 draft: false
 featured: false
+lastmode: "2020-09-08"
+
 
 image:
   caption: 'Click for the App: [**The Constellations of Books**](https://koreauniv-datahub.shinyapps.io/constell_of_book/)'

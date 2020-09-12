@@ -4,6 +4,8 @@ authors:
 date: "2020-08-01"
 draft: false
 featured: false
+lastmode: "2020-08-01"
+
 
 image:
   caption: 'Click for the App: [**The Map of Liberal Arts Lectures (Korean)**](https://koreauniv-datahub.shinyapps.io/map_of_arts_lec/)'
@@ -24,7 +26,7 @@ tags:
 - R
 - Shiny
 
-title: 'The Interactive report of Psychological Assessment'
+title: 'The Map of Liberal Arts Lectures'
 ---
 
 
