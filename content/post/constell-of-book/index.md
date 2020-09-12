@@ -6,7 +6,7 @@ draft: false
 featured: false
 
 image:
-  caption: 'Click for the App: [**the Constellations of Books**](https://koreauniv-datahub.shinyapps.io/constell_of_book/)'
+  caption: 'Click for the App: [**The Constellations of Books**](https://koreauniv-datahub.shinyapps.io/constell_of_book/)'
   focal_point: ""
   placement: 2
   preview_only: false
@@ -19,10 +19,10 @@ summary: Explore the books of Korea Univerisity Library based on the 10 years of
 tags:
 - Bayesian probability
 - Demension reduction
+- Big data
 - Visualization
 - R
 - Shiny
-- Plotly
 title: 'The Constellations of Books'
 ---
 

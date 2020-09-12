@@ -23,7 +23,6 @@ tags:
 - Visualization
 - R
 - Shiny
-- Plotly
 
 title: 'HS Middle School Network Analysis'
 ---
