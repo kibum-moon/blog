@@ -18,7 +18,7 @@ subtitle:
 summary: Provide interactive reports with personalized interpretations on the results of psychological assessments
 
 tags:
-- Psychologcial assessment
+- Psychological assessment
 - Visualization
 - R
 

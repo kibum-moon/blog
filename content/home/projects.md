@@ -26,8 +26,8 @@ subtitle = ""
     tag = "*"
   
 [[content.filter_button]]
-    name = "Psychologcial Assessment"
-    tag = "Psychologcial assessment"
+    name = "Psychological Assessment"
+    tag = "Psychological assessment"
 
 [[content.filter_button]]
     name = "Big Data"
