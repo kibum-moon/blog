@@ -26,9 +26,19 @@ subtitle = ""
     tag = "*"
   
 [[content.filter_button]]
+    name = "Psychologcial Assessment"
+    tag = "Psychologcial assessment"
+
+[[content.filter_button]]
+    name = "Big Data"
+    tag = "Big data"
+    
+[[content.filter_button]]
     name = "Web-App"
     tag = "Shiny"
   
+
+
 #[[content.filter_button]]
 #    name = "Data Psychology"
 #    tag = "Data Psychology"

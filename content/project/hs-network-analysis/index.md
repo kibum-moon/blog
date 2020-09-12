@@ -19,6 +19,7 @@ subtitle:
 summary: A dashboard for junior high school teachers to inspect the peer networks of students and their psychological properties. 
 
 tags:
+- Psychological assessment
 - Network analysis
 - Peer relationship
 - Visualization

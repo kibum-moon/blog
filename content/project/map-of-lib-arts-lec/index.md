@@ -27,9 +27,10 @@ tags:
 - Shiny
 
 title: 'The Map of Liberal Arts Lectures'
-url_app: 'https://koreauniv-datahub.shinyapps.io/map_of_arts_lec/'
-url_pdf: 'https://koreauniv-datahub.shinyapps.io/map_of_arts_lec/'
-url_custom: 'https://koreauniv-datahub.shinyapps.io/map_of_arts_lec/'
+
+url_custom = [{name = "Custom Link 1", url = "http://example.org"},
+              {name = "Custom Link 2", url = "http://example.org"}]
+              
 ---
 
 
