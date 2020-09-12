@@ -28,7 +28,7 @@ tags:
 - Shiny
 title: 'The Constellations of Books'
 
-external_link: "[http://example.org](http://example.org/)"
+# external_link: "[http://example.org](http://example.org/)"
 
 ---
 
