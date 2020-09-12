@@ -15,7 +15,7 @@ image:
 lastmod: "2020-09-08"
 projects: 
 
-[[url_app]]
+[[url_custom]]
     name = "App"
     url = "https://koreauniv-datahub.shinyapps.io/constell_of_book/"
     
