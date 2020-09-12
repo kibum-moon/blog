@@ -1,12 +1,12 @@
 ---
 authors:
 - admin
-date: "2019-06-10"
+date: "2019-04-10"
 draft: false
 featured: false
 
 image:
-  caption: 'Click for the App: [**HS Middle School Network Analysis**](https://a072826.shinyapps.io/hwasoon_network/)'
+  caption: 'Click for the App: [**HS Junior High School Network Analysis**](https://a072826.shinyapps.io/hwasoon_network/)'
   focal_point: ""
   placement: 2
   preview_only: false
