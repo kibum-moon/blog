@@ -70,7 +70,7 @@ experience:
   company_url: ""
   date_end: "2018-02-28"
   date_start: "2015-09-01"
-  description: |-
+  description: 
   
   location: Seoul
   title: Clinical Psychology Master’s Program Student
