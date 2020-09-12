@@ -14,9 +14,6 @@ image:
   placement: 2
   preview_only: false
 lastmod: "2020-09-08"
-projects: 
-
-    
 subtitle: 
 summary: Explore the books of Korea Univerisity Library based on the 10 years of book loan records.
 tags:
@@ -26,11 +23,9 @@ tags:
 - Visualization
 - R
 - Shiny
+
 title: 'The Constellations of Books'
 
-# external_link: "[http://example.org](http://example.org/)"
-
 ---
-
 
 This is the result of visualizing the data of 1,310 randomly selected books out of 4,366 books of Korea University Library. Bayesian probability and UMAP algorithm were used for data analysis and visualization.
