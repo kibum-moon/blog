@@ -19,6 +19,7 @@ summary: A network analysis to identify alienated college students who are at hi
 
 tags:
 - Network analysis
+- Big data
 - Psychological assessment
 - Visualization
 - Gephi
