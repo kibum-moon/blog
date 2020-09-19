@@ -23,14 +23,14 @@ publication_types:
 publishDate: "2020-06-12"
 summary: 
 tags:
-- self-image
-- self-perception
-- facial images
-- visual representations
-- classification images
-- self-esteem
-- social anxiety
-- extraversion
+- Self-image
+- Self-perception
+- Facial images
+- Visual representations
+- Classification images
+- Self-esteem
+- Social anxiety
+- Extraversion
 
 title: 'The Mirror of Mind: Visualizing Mental Representations of Self Through Reverse Correlation'
 url_code: https://github.com/a072826/The_Mirror_of_Mind/
