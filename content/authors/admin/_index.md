@@ -50,9 +50,10 @@ user_groups:
 - Principal Investigators
 ---
 
-Kibum Moon is a data scientist at Korea University. 
-<br>
-Fulbright Alternate Candidate.
+I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. My present research focuses on building a machine learning model to identify mentally maladaptive students with big data including time-serial LMS (Learning Management System) data, academic performance, and psychological assessments. 
+ 
+I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in a governmental project (University Innovation Project). My responsibilities include preprocessing big data, making data pipeline, building machine learning models, and writing monthly and annual reports. 
 
+Prior to this position, I was a clinical researcher at the students counseling center of Korea University, conducting research on developing and validating psychological measurements, and developing an automatized psychological reporting system from the scratch. I also provide personal and group interventions for university students.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

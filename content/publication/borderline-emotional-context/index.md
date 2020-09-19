@@ -3,7 +3,7 @@ abstract: The aim of the current study was to explore the relationship between b
 
 authors:
   - SoJeong Kim
-  - *admin*
+  - admin
   - Jinwon Kim
   - Young-gun Ko
   
