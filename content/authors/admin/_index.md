@@ -23,7 +23,8 @@ interests:
 organizations:
 - name: Korea University
   url: https://data.korea.ac.kr
-role: Data Scientist
+role: Data Scientist 
+<br> Fulbright Alternate Candidate
 
 social:
 - icon: envelope
