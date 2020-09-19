@@ -51,7 +51,7 @@ user_groups:
 ---
 
 Kibum Moon is a data scientist at Korea University. 
-
+<br>
 Fulbright Alternate Candidate.
 
 
