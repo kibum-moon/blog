@@ -47,19 +47,21 @@ experience:
     * Hosted R programming workshops for psychological researchers and counselors
   location: Seoul
   title: Clinical Researcher 
-- company: Mentoring Counseling Center, College of Liberal Arts, Korea University
-  company_url: ""
-  date_end: "2019-01-31"
-  date_start: "2018-05-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: Seoul
-  title: Post-Master Research Associate  
-- company: Department of Psychology, Korea University
-  company_url: ""
-  date_end: "2018-02-28"
-  date_start: "2015-09-01"
-  description: aa
-  location: Seoul
-  title: Clinical Psychology Master’s Program Student
+
+# - company: Mentoring Counseling Center, College of Liberal Arts, Korea University
+#  company_url: ""
+#  date_end: "2019-01-31"
+#  date_start: "2018-05-01"
+#  description: Taught electronic engineering and researched semiconductor physics.
+#  location: Seoul
+
+#  title: Post-Master Research Associate  
+#- company: Department of Psychology, Korea University
+#  company_url: ""
+#  date_end: "2018-02-28"
+#  date_start: "2015-09-01"
+#  description: aa
+#  location: Seoul
+#  title: Clinical Psychology Master’s Program Student
 
 ---
