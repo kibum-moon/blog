@@ -50,7 +50,7 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. My present research focuses on building a machine learning model to identify mentally maladaptive students based on big data.
+I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. My present research focuses on building an automatic assessment model to monitor students’ psychological adaptation
  
 I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in one of the largest governmental projects - University Innovation Project. 
 
