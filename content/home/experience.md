@@ -56,11 +56,10 @@ experience:
   date_end: "2019-01-31"
   date_start: "2018-05-01"
   description: |-
-  
-  * Conducted and interpreted 100+ cases of psychological assessments – they include MMPI, the Rorschach Inkblot Test, Defense Mechanism Interview, Career Aptitude Assessment. 
-  * Conducted 10+ cases of individual and group counseling – Positive psychology-based program (Mental-Fitness Program)
-  * Performed psychological experiments
-  * Managed a government-funded project (the CORE Project)
+    * Conducted and interpreted 100+ cases of psychological assessments – they include MMPI, the Rorschach Inkblot Test, Defense Mechanism Interview, Career Aptitude Assessment. 
+    * Conducted 10+ cases of individual and group counseling – Positive psychology-based program (Mental-Fitness Program)
+    * Performed psychological experiments
+    * Managed a government-funded project (the CORE Project)
   
   location: Seoul
 
