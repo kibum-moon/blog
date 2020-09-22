@@ -23,7 +23,7 @@ interests:
 organizations:
 - name: Korea University
   url: https://data.korea.ac.kr
-role: Data Psychologist <br> Fulbright Alternate Candidate
+role: Data Psychologist <br> Fulbright Scholarship Candidate
 
 social:
 - icon: envelope
@@ -57,4 +57,4 @@ I am currently working as a data scientist at the Office of Digital Information 
 Prior to this position, I was a clinical researcher at the students counseling center of Korea University, conducting research on developing and validating psychological measurements, and developing an automatized psychological reporting system from the scratch. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/cv_09-22-20.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

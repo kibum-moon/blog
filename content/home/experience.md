@@ -31,31 +31,42 @@ experience:
   date_end: ""
   date_start: "2019-10-01"
   description: |-
-    * Developed an AI based recommendation model of Liberal Arts courses for university students
-    * Analyzed the raw data of the QS World University Rankings and suggested a strategy for selecting evaluators, which contributed to rising in rankings (83rd to 69th): A special citation was awarded to the Data Hub Team with incentives (2,000$)
+    *	Developed AI based models that provide personalized recommendations on course/major selection – the first case among universities in South Korea 
+    * Developed an automatized assessment model to monitor students’ psychological adaptation
+    * Contributed to rise in the QS World University Rankings of Korea University (83rd to 69th) by proposing a strategy based on analysis of reputation data
+    * Conducted optimal balance analyses to support college policy decision-making – improving course enrollment policy, calculating the optimal admission ratio of foreign students
     * Hosted R programming and advanced statistics workshops for administrative officers
+
   location: Seoul
   title: Data Scientist
+  
 - company: Student Counseling Center, Korea University
   company_url: ""
   date_end: "2019-09-30"
   date_start: "2019-02-01"
   description: |-
-    * Provide interactive reports with personalized interpretations on the results of psychological assessments 
-    * Conducted network analysis of junior high school classes and built Shiny web applications using R to visualize the analyzed results
-    * Built online and offline experiments using Python and PsychoPy (powered by Pavlovia.org for online experiments)
+    * Built an online system to conduct psychological assessments and provide personalized interpretations
+    * Provided positive psychology intervention for high school and college students – created a dashboard application for teachers to visually inspect social networks of the classroom
+    * Developed and validated a novel psychological assessment to visualize mental representation of self-image through the reverse correlation method
     * Hosted R programming workshops for psychological researchers and counselors
+
+
+ - company: Mentoring Counseling Center, College of Liberal Arts, Korea University
+  company_url: ""
+  date_end: "2019-01-31"
+  date_start: "2018-05-01"
+  description: |-
+  
+  * Conducted and interpreted 100+ cases of psychological assessments – they include MMPI, the Rorschach Inkblot Test, Defense Mechanism Interview, Career Aptitude Assessment. 
+  * Conducted 10+ cases of individual and group counseling – Positive psychology-based program (Mental-Fitness Program)
+  * Performed psychological experiments
+  * Managed a government-funded project (the CORE Project)
+  
   location: Seoul
-  title: Clinical Researcher 
 
-# - company: Mentoring Counseling Center, College of Liberal Arts, Korea University
-#  company_url: ""
-#  date_end: "2019-01-31"
-#  date_start: "2018-05-01"
-#  description: Taught electronic engineering and researched semiconductor physics.
-#  location: Seoul
-
-#  title: Post-Master Research Associate  
+  title: Post-Master Research Associate  
+  
+  
 #- company: Department of Psychology, Korea University
 #  company_url: ""
 #  date_end: "2018-02-28"
