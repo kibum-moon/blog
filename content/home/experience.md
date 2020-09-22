@@ -50,6 +50,10 @@ experience:
     * Developed and validated a novel psychological assessment to visualize mental representation of self-image through the reverse correlation method
     * Hosted R programming workshops for psychological researchers and counselors
 
+  location: Seoul
+  title: Clinical Researcher
+
+
 - company: Mentoring Counseling Center, College of Liberal Arts, Korea University
   company_url: ""
   date_end: "2019-01-31"
