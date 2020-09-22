@@ -50,20 +50,6 @@ experience:
     * Developed and validated a novel psychological assessment to visualize mental representation of self-image through the reverse correlation method
     * Hosted R programming workshops for psychological researchers and counselors
 
-
- - company: Mentoring Counseling Center, College of Liberal Arts, Korea University
-  company_url: ""
-  date_end: "2019-01-31"
-  date_start: "2018-05-01"
-  description: |-
-    * Conducted and interpreted 100+ cases of psychological assessments – they include MMPI, the Rorschach Inkblot Test, Defense Mechanism Interview, Career Aptitude Assessment. 
-    * Conducted 10+ cases of individual and group counseling – Positive psychology-based program (Mental-Fitness Program)
-    * Performed psychological experiments
-    * Managed a government-funded project (the CORE Project)
-  
-  location: Seoul
-
-  title: Post-Master Research Associate  
   
   
 #- company: Department of Psychology, Korea University
