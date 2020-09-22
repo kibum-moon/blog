@@ -18,6 +18,7 @@ interests:
 - Data Psychology
 - Emotions
 - Interpersonal Relationships
+- Self-image
 - Positive Psychology
 
 organizations:
