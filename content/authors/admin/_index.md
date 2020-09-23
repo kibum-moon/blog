@@ -51,9 +51,11 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. My present research focuses on building an automatic assessment model to monitor students’ psychological adaptation
+I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. My research interest is mainly on developing novel assessment methods to supplement the limitations of self-reports. 
+
+My present research focuses on building an automatic assessment model to monitor students’ psychological adaptation
  
-I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in one of the largest governmental projects - University Innovation Project. 
+I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in a series of AI projects as a part of University Innovation Project (the largest government-funded project for undergraduate program in South Korea). 
 
 Prior to this position, I was a clinical researcher at the students counseling center of Korea University, conducting research on developing and validating psychological measurements, and developing an automatized psychological reporting system from the scratch. 
 
