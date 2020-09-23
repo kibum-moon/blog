@@ -55,7 +55,7 @@ I am a Data Psychologist. My research tries to find the best ways to incorporate
 
 My present research focuses on building an automatic assessment model to monitor students’ psychological adaptation
  
-I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in a series of AI projects as a part of University Innovation Project  - the largest government-funded project for undergraduate program in South Korea. 
+I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in a series of AI projects as a part of University Innovation Project  - the largest government-funded project for colleges. 
 
 Prior to this position, I was a clinical researcher at the students counseling center of Korea University, conducting research on developing and validating psychological measurements, and developing an automatized psychological reporting system from the scratch. 
 
