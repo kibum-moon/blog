@@ -24,7 +24,7 @@ tags:
 - Visualization
 - Gephi
 
-title: 'The Course History Networks of University Students'
+title: 'The Course History Networks of the Entire University Students'
 
 ---
 
