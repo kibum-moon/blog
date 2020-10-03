@@ -27,9 +27,9 @@ organizations:
 role: Data Psychologist <br> Fulbright Scholarship Candidate
 
 social:
-- icon: envelope
-  icon_pack: fas
-  link: /#contact
+#- icon: envelope
+#  icon_pack: fas
+#  link: /#contact
 #- icon: twitter
 #  icon_pack: fab
 #  link: https://twitter.com/GeorgeCushen
