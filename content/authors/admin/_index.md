@@ -1,5 +1,5 @@
 ---
-bio: Making data science humane together with psychology
+bio: Making data science humane with psychology
 education:
   courses:
   - course: M.A. in Clinical Psychology
