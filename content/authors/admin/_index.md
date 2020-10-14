@@ -58,4 +58,4 @@ I am currently working as a data scientist at the Office of Digital Information 
 Prior to this position, I was a clinical researcher at the students counseling center of Korea University, conducting research on developing and validating psychological measurements, and developing an automatized psychological reporting system from the scratch. 
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_KIBUM_MOON_09-22-20.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_KIBUM_MOON.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
