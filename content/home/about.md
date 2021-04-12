@@ -21,8 +21,10 @@ author: admin
 
 design:
   background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#5e1a21'
+    image = "background-network.jpg"  # Name of image in `static/media/`.
+    image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    # gradient_start: '#4bb4e3'
+    # gradient_end: '#5e1a21'
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
 
