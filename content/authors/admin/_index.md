@@ -51,14 +51,6 @@ title: Kibum Moon
 user_groups:
 - Principal Investigators
 
-design:
-  background:
-    gradient_start: '#4bb4e3'
-    gradient_end: '#2b94c3'
-    # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
-
-
 ---
 
 I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. I am interested in developing data-driven assessment tools to elucidate the subtle aspects of personality, emotion, and quality of relationship.
