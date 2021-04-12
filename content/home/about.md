@@ -21,8 +21,6 @@ author: admin
 
 design:
   background:
-    # gradient_start: "DeepSkyBlue"
-    # gradient_end: "SkyBlue"
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     image = "background.jpg"  
     image_darken = 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
