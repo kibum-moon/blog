@@ -19,4 +19,10 @@ title: ABOUT ME
 # See https://sourcethemes.com/academic/docs/get-started/#introduce-yourself
 author: admin
 
+design:
+  background:
+    gradient_start: "DeepSkyBlue"
+    gradient_end: "SkyBlue"
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+
 ---
