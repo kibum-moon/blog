@@ -1,10 +1,10 @@
 ---
 authors:
 - admin
-date: "2021-03-31"
+date: "2021-03-13"
 draft: false
 featured: false
-lastmod: "2021-03-31"
+lastmod: "2021-03-13"
 
 image:
   caption: 'Click for the Example: [**The Interactive report of Psychological Assessment (Korean)**](https://a072826.github.io/kibum_moon/19_2_KUSCC.html)'
@@ -13,17 +13,21 @@ image:
   preview_only: false
 
 # projects: 
-title: '(Korean) Energy Curriculum Network Analysis based on Directed Acylic Graph'
-external_link: 'https://a072826.github.io/kibum_moon/19_2_KUSCC.html'
 
 subtitle: 
 summary: 
-tags:
-- Network analysis
-- Big data
-- Visualization
-- R
 
+tags:
+- Big Data
+- Deep Learning
+- Bert
+- Dimension Reduction
+- Visualization
+- Umap
+- Python
+
+title: 'Embedding Research Papers Based on Abstracts by Sentence-BERT'
+external_link: ''
 
 ---
 
