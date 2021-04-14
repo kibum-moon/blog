@@ -18,11 +18,14 @@ subtitle:
 summary: Interactive reports with personalized interpretations for the results of psychological assessments
 
 tags:
-- Psychological assessment
+
+tags:
+- Network analysis
+- Big data
 - Visualization
 - R
 
-title: '(Korean) The Interactive report of Psychological Assessment'
+title: '(Korean) Energy Curriculum Network Analysis based on Directed Acylic Graph'
 external_link: 'https://a072826.github.io/kibum_moon/19_2_KUSCC.html'
 
 ---
