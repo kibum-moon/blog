@@ -12,10 +12,10 @@ image:
   placement: 2
   preview_only: false
 
-projects: 설명설명
+# projects: 
 
 subtitle: 
-summary: '[(Korean) Full text](https://data.korea.ac.kr/?p=2569)'
+summary: 
 
 tags:
 - Newsletter
@@ -28,4 +28,6 @@ title: '[Data@KU]Foreign Student Diversity Analysis'
 
 ---
 
+[(Korean)Full text](https://data.korea.ac.kr/?p=2569)
 
+여기다가 그대로 작성하면 돼? 
