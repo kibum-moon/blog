@@ -15,7 +15,7 @@ caption:
 # projects: 
 
 subtitle: 
-summary: ''
+summary: 
 
 tags:
 - Newsletter
