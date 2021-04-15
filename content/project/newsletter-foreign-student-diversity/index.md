@@ -19,13 +19,13 @@ summary:
 [(Korean) Full text](https://data.korea.ac.kr/?p=2569)
 
 tags:
-- Data@KU Newsletter
+- Newsletter
 - Diversity analysis
 - Visualization
 - R
 - ggplot
 
-title: 'Foreign Student Diversity Analysis'
+title: '[Data@KU]Foreign Student Diversity Analysis'
 
 ---
 
