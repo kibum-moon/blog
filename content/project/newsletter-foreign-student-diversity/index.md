@@ -28,6 +28,4 @@ title: '[Data@KU]Foreign Student Diversity Analysis'
 
 ---
 
-[(Korean)Full text](https://data.korea.ac.kr/?p=2569)
-
-여기다가 그대로 작성하면 돼? 
+https://data.korea.ac.kr/newsletter/ExplorerofDoubleMajor.html

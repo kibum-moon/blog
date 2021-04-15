@@ -1,10 +1,10 @@
 ---
 authors:
 - admin
-date: "2020-03-01"
+date: "2020-05-01"
 draft: false
 featured: false
-lastmod: "2020-03-01"
+lastmod: "2020-05-01"
 
 image:
   caption: 
@@ -15,19 +15,17 @@ image:
 # projects: 
 
 subtitle: 
-summary: ''
+summary: 
 
 tags:
 - Newsletter
-- Diversity analysis
-- Cosine distance
 - Visualization
 - R
-- plotly
 - ggplot2
+- plotly
 
-title: '[Data@KU]Generalist VS Specialist'
+title: '[Data@KU]Explore Double Majors in KU'
 ---
 
 
-https://data.korea.ac.kr/?page_id=2030
+https://data.korea.ac.kr/newsletter/ConvergenceMajor_StudentDesignMajor.html
