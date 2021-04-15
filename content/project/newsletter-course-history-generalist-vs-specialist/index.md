@@ -1,10 +1,10 @@
 ---
 authors:
 - admin
-date: "2020-02-01"
+date: "2020-03-01"
 draft: false
 featured: false
-lastmod: "2020-02-01"
+lastmod: "2020-03-01"
 
 image:
 caption: 
@@ -15,7 +15,7 @@ caption:
 # projects: 
 
 subtitle: 
-summary: 
+summary: ''
 
 tags:
 - Newsletter
@@ -25,7 +25,7 @@ tags:
 - R
 - plotly
 
-title: '[Data@KU]Generalisty VS Speciality'
+title: '[Data@KU]Generalist VS Specialist'
 ---
 
 
