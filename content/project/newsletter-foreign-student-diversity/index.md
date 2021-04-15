@@ -12,10 +12,10 @@ image:
   placement: 2
   preview_only: false
 
-projects: 설명 설명설명
+#projects: 
 
 subtitle: 
-summary: [(Korean) Full text](https://data.korea.ac.kr/?p=2569)
+summary: '[(Korean) Full text](https://data.korea.ac.kr/?p=2569)'
 
 tags:
 - Newsletter
