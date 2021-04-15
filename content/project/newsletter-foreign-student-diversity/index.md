@@ -22,7 +22,7 @@ tags:
 - Diversity analysis
 - Visualization
 - R
-- ggplot
+- ggplot2
 
 title: '[Data@KU]Foreign Student Diversity Analysis'
 
