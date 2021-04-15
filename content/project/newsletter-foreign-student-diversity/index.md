@@ -12,7 +12,7 @@ image:
   placement: 2
   preview_only: false
 
-#projects: 
+projects: '설명설명'
 
 subtitle: 
 summary: '[(Korean) Full text](https://data.korea.ac.kr/?p=2569)'
