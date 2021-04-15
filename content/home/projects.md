@@ -37,6 +37,10 @@ subtitle = ""
     name = "Big Data"
     tag = "Big data"
     
+[[content.filter_button]]
+    name = "Data@KU Newsletter"
+    tag = "Data@KU Newsletter"
+    
 
 
 #[[content.filter_button]]
