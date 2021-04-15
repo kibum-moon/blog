@@ -38,8 +38,8 @@ subtitle = ""
     tag = "Big data"
     
 [[content.filter_button]]
-    name = "Data@KU Newsletter"
-    tag = "Data@KU Newsletter"
+    name = "Newsletter"
+    tag = "Newsletter"
     
 
 
