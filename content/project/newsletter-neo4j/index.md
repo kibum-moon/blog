@@ -1,10 +1,10 @@
 ---
 authors:
 - admin
-date: "2020-11-01"
+date: "2021-04-01"
 draft: false
 featured: false
-lastmod: "2020-11-01"
+lastmod: "2021-04-01"
 
 image:
   caption: 
@@ -21,11 +21,10 @@ tags:
 - Newsletter
 - Network analysis
 - Visualization
-- R
-- Gephi
+- Neo4j
 
-title: '[Data@KU] Keyword Network'
+title: '[Data@KU] Neo4j'
 ---
 
 
-https://data.korea.ac.kr/?p=5230
+https://data.korea.ac.kr/?p=6075

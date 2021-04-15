@@ -1,10 +1,10 @@
 ---
 authors:
 - admin
-date: "2020-11-01"
+date: "2021-01-01"
 draft: false
 featured: false
-lastmod: "2020-11-01"
+lastmod: "2021-01-01"
 
 image:
   caption: 
@@ -22,10 +22,10 @@ tags:
 - Network analysis
 - Visualization
 - R
-- Gephi
+- plotly
 
-title: '[Data@KU] Keyword Network'
+title: '[Data@KU] AI-Advisor Satisfaction Survey Analysis'
 ---
 
 
-https://data.korea.ac.kr/?p=5230
+https://data.korea.ac.kr/newsletter/mmajor_rec_analysis2.html
