@@ -24,7 +24,7 @@ tags:
 - ggplot2
 - plotly
 
-title: '[Data@KU]Explore Double Majors in KU'
+title: '[Data@KU] Explore Double Majors in KU'
 ---
 
 

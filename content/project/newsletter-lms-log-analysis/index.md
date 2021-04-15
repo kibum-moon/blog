@@ -1,10 +1,10 @@
 ---
 authors:
 - admin
-date: "2020-03-01"
+date: "2020-07-01"
 draft: false
 featured: false
-lastmod: "2020-03-01"
+lastmod: "2020-07-01"
 
 image:
   caption: 
@@ -15,19 +15,17 @@ image:
 # projects: 
 
 subtitle: 
-summary: ''
+summary: 
 
 tags:
 - Newsletter
-- Diversity analysis
-- Cosine distance
+- Big data
 - Visualization
 - R
 - plotly
-- ggplot2
 
-title: '[Data@KU] Generalist VS Specialist'
+title: '[Data@KU] Course Rating Analysis'
 ---
 
 
-https://data.korea.ac.kr/?page_id=2030
+https://data.korea.ac.kr/newsletter/blackboardconnection.html

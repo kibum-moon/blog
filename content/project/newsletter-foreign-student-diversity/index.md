@@ -24,7 +24,7 @@ tags:
 - R
 - ggplot2
 
-title: '[Data@KU]Foreign Student Diversity Analysis'
+title: '[Data@KU] Foreign Student Diversity Analysis'
 
 ---
 
