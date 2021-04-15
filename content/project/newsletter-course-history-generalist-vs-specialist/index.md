@@ -7,7 +7,7 @@ featured: false
 lastmod: "2020-03-01"
 
 image:
-caption: 
+  caption: 
   focal_point: ""
   placement: 2
   preview_only: true

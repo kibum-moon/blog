@@ -7,7 +7,7 @@ featured: false
 lastmod: "2020-02-01"
 
 image:
-#  caption: 'Click for the Example: [**The Interactive report of Psychological Assessment (Korean)**](https://a072826.github.io/kibum_moon/19_2_KUSCC.html)'
+  caption:
   focal_point: ""
   placement: 2
   preview_only: true
