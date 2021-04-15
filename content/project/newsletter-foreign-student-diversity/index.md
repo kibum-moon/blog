@@ -15,8 +15,7 @@ image:
 # projects: 
 
 subtitle: 
-summary: 
-[(Korean) Full text](https://data.korea.ac.kr/?p=2569)
+summary: [(Korean) Full text](https://data.korea.ac.kr/?p=2569)
 
 tags:
 - Newsletter
