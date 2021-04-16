@@ -2,5 +2,6 @@
 
 # Homepage
 
-*This repository gives the code for my homepage. 
+* This repository gives the code for my homepage. 
+
 [Take a look!](https://kibum-moon.netlify.app/) 
