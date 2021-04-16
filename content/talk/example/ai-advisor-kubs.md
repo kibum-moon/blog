@@ -13,7 +13,7 @@ math: true
 projects:
 - internal-project
 publishDate: "2017-01-01T00:00:00Z"
-slides: example
+slides: 
 summary: An example talk using Academic's Markdown slides feature.
 tags: []
 title: AI-advisor: Liberal Arts Course Recommendation System
@@ -24,3 +24,4 @@ url_video: "https://youtu.be/d0RT4VaXZek"
 ---
 
 
+{{< youtube xxTTeiLp0D0 >}}
