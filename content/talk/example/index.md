@@ -1,5 +1,6 @@
 ---
 abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.
+draft: true
 address:
   city: Stanford
   country: United States
@@ -47,6 +48,3 @@ Slides can be added in a few ways:
 - **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
 
 Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
-
-
-{{< youtube xxTTeiLp0D0 >}}
