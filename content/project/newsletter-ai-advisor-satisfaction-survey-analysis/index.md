@@ -25,7 +25,7 @@ tags:
 - plotly
 
 title: '[Data@KU] AI-Advisor Satisfaction Survey Analysis'
+external_link: 'https://data.korea.ac.kr/newsletter/mmajor_rec_analysis2.html'
 ---
 
-
-https://data.korea.ac.kr/newsletter/mmajor_rec_analysis2.html
+Korean Newsletter
