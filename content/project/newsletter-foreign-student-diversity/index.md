@@ -25,7 +25,9 @@ tags:
 - ggplot2
 
 title: '[Data@KU] Foreign Student Diversity Analysis'
-
+external_link: 'https://data.korea.ac.kr/?p=2569'
 ---
 
-https://data.korea.ac.kr/newsletter/ExplorerofDoubleMajor.html
+Korean Newsletter
+
+

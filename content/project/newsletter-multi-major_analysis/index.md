@@ -25,7 +25,9 @@ tags:
 - plotly
 
 title: '[Data@KU]Explore Convergence Majors in KU'
+external_link: 'https://data.korea.ac.kr/newsletter/ConvergenceMajor_StudentDesignMajor.html'
 ---
 
+Korean Newsletter
 
-https://data.korea.ac.kr/newsletter/ConvergenceMajor_StudentDesignMajor.html
+

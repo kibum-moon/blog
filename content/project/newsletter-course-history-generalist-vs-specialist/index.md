@@ -27,7 +27,7 @@ tags:
 - ggplot2
 
 title: '[Data@KU] Generalist VS Specialist'
+external_link: 'https://data.korea.ac.kr/newsletter/Generalist_VS_Specialist.html'
 ---
 
-
-https://data.korea.ac.kr/?page_id=2030
+Korean Newsletter

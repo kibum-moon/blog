@@ -42,7 +42,6 @@ subtitle = ""
     tag = "Newsletter"
     
 
-
 #[[content.filter_button]]
 #    name = "Data Psychology"
 #    tag = "Data Psychology"

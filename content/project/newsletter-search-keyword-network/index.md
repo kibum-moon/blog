@@ -25,7 +25,9 @@ tags:
 - Gephi
 
 title: '[Data@KU] Keyword Network'
+external_link: 'https://data.korea.ac.kr/?p=5230'
 ---
 
+Korean Newsletter
 
-https://data.korea.ac.kr/?p=5230
+

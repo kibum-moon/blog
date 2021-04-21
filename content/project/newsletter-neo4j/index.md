@@ -24,7 +24,9 @@ tags:
 - Neo4j
 
 title: '[Data@KU] Neo4j'
+external_link: 'https://data.korea.ac.kr/?p=6075'
 ---
 
+Korean Newsletter
 
-https://data.korea.ac.kr/?p=6075
+

@@ -24,8 +24,10 @@ tags:
 - R
 - plotly
 
-title: '[Data@KU] Course Rating Analysis'
+title: '[Data@KU] Blackboard Log Analysis'
+external_link: 'https://data.korea.ac.kr/newsletter/blackboardconnection.html'
 ---
 
+Korean Newsletter
 
-https://data.korea.ac.kr/newsletter/blackboardconnection.html
+

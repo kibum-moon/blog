@@ -25,7 +25,10 @@ tags:
 - plotly
 
 title: '[Data@KU] Explore Double Majors in KU'
+external_link: 'https://data.korea.ac.kr/newsletter/ConvergenceMajor_StudentDesignMajor.html'
 ---
 
+Korean Newsletter
 
-https://data.korea.ac.kr/newsletter/ConvergenceMajor_StudentDesignMajor.html
+
+

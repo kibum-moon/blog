@@ -26,7 +26,8 @@ tags:
 - plotly
 
 title: '[Data@KU] Course Map'
+external_link: 'https://data.korea.ac.kr/newsletter/map_of_arts_lec.html'
 ---
 
+Korean Newsletter
 
-https://data.korea.ac.kr/newsletter/map_of_arts_lec.html

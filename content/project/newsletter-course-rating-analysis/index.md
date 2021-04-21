@@ -24,7 +24,9 @@ tags:
 - plotly
 
 title: '[Data@KU] Course Rating Analysis'
+external_link: 'https://data.korea.ac.kr/newsletter/ValuationofLecture.html'
 ---
 
+Korean Newsletter
 
-https://data.korea.ac.kr/newsletter/ValuationofLecture.html
+
