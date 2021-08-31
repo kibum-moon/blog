@@ -31,9 +31,8 @@ experience:
   date_end: ""
   date_start: "2019-10-01"
   description: |-
-    * (Project) *Recommendation System based on ML/DL in Higher Education* The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
-    
-    * (Project) *Early Prediction Model of Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data*
+    * (Project) Developed Recommendation Systems based on ML/DL
+    * 
 
   location: Seoul
   title: Data Scientist
@@ -43,12 +42,13 @@ experience:
   date_end: "2019-09-30"
   date_start: "2019-02-01"
   description: |-
-    * (Project) Mental Fitness Program: Positive Psychology-Based Intervention
-    * (Project) Visualizing Self-image Using Reverse Correlation Method
-    * (Project) Borderline Personality Features and Emotional Recovery
+    * Built an online system to conduct psychological assessments and provide personalized interpretations
+    * Provided positive psychology intervention for high school and college students – created a dashboard application for teachers to visually inspect social networks of the classroom
+    * Developed and validated a novel psychological assessment to visualize mental representation of self-image through the reverse correlation method
+    * Hosted R programming workshops for psychological researchers and counselors
 
   location: Seoul
-  title: Clinical Research Assistant
+  title: Clinical Researcher
 
 
 - company: Mentoring Counseling Center, College of Liberal Arts, Korea University
@@ -56,21 +56,21 @@ experience:
   date_end: "2019-01-31"
   date_start: "2018-05-01"
   description: |-
-  * (Project) Validation of the Korean Version of Positive Mental Health Scales
-  * (Project) The Effects of Ego Depletion and Psychological Burden on Fatigue in Everyday Life
+    * Conducted and interpreted 100+ cases of psychological assessments – they include MMPI, the Rorschach Inkblot Test, Defense Mechanism Interview, Career Aptitude Assessment. 
+    * Conducted 10+ cases of individual and group counseling – Positive psychology-based program (Mental-Fitness Program)
+    * Performed psychological experiments
+    * Managed a government-funded project (the CORE Project)
   
   location: Seoul
   title: Post-Master Research Associate  
   
   
-- company: Department of Psychology, Korea University
-  company_url: ""
-  date_end: "2018-02-28"
-  date_start: "2015-09-01"
-  description: |-
-  * (Project) Implicit Accommodation and Romantic Relationship Longevity
-  * (Project) The  CORE Personality and Aptitude Psychological Assessments
-  location: Seoul
-  title: Clinical Psychology Master’s Program Student
-  
+#- company: Department of Psychology, Korea University
+#  company_url: ""
+#  date_end: "2018-02-28"
+#  date_start: "2015-09-01"
+#  description: aa
+#  location: Seoul
+#  title: Clinical Psychology Master’s Program Student
+
 ---
