@@ -66,12 +66,14 @@ experience:
   title: Post-Master Research Associate  
   
   
-#- company: Department of Psychology, Korea University
-#  company_url: ""
-#  date_end: "2018-02-28"
-#  date_start: "2015-09-01"
-#  description: aa
-#  location: Seoul
-#  title: Clinical Psychology Master’s Program Student
+- company: Department of Psychology, Korea University
+  company_url: ""
+  date_end: "2018-02-28"
+  date_start: "2015-09-01"
+  description: aa
+  location: Seoul
+  title: Clinical Psychology Master’s Program Student
+  * (Project) _Implicit Accommodation and Romantic Relationship Longevity_
+  * (Project) _The  CORE Personality and Aptitude Psychological Assessments_
 
 ---
