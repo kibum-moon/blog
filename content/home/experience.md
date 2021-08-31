@@ -32,7 +32,7 @@ experience:
   date_start: "2019-10-01"
   description: |-
     * (Project) Developed Recommendation Systems based on ML/DL
-    * 
+    * (Project) Early Prediction Model of Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data
 
   location: Seoul
   title: Data Scientist
@@ -42,10 +42,9 @@ experience:
   date_end: "2019-09-30"
   date_start: "2019-02-01"
   description: |-
-    * Built an online system to conduct psychological assessments and provide personalized interpretations
-    * Provided positive psychology intervention for high school and college students – created a dashboard application for teachers to visually inspect social networks of the classroom
-    * Developed and validated a novel psychological assessment to visualize mental representation of self-image through the reverse correlation method
-    * Hosted R programming workshops for psychological researchers and counselors
+    * (Project) Mental Fitness Program - Positive Psychological-Based Intervention  
+    * (Project) Visualizing Self-image Using Reverse Correlation Method
+    * (Project) Borderline Personality Features and Emotional Recovery
 
   location: Seoul
   title: Clinical Researcher
@@ -56,21 +55,22 @@ experience:
   date_end: "2019-01-31"
   date_start: "2018-05-01"
   description: |-
-    * Conducted and interpreted 100+ cases of psychological assessments – they include MMPI, the Rorschach Inkblot Test, Defense Mechanism Interview, Career Aptitude Assessment. 
-    * Conducted 10+ cases of individual and group counseling – Positive psychology-based program (Mental-Fitness Program)
-    * Performed psychological experiments
-    * Managed a government-funded project (the CORE Project)
+    * (Project) Validation of the Korean Version of Positive Mental Health Scales
+    * (Project) The Effects of Ego Depletion and Psychological Burden on Fatigue in Everyday Life
+    * (Project) The Effects of Communal Narcissism and Altruism on Psychosocial Maturity
   
   location: Seoul
   title: Post-Master Research Associate  
   
   
-#- company: Department of Psychology, Korea University
-#  company_url: ""
-#  date_end: "2018-02-28"
-#  date_start: "2015-09-01"
-#  description: aa
-#  location: Seoul
-#  title: Clinical Psychology Master’s Program Student
+- company: Department of Psychology, Korea University
+  company_url: ""
+  date_end: "2018-02-28"
+  date_start: "2015-09-01"
+  description: |-
+    * (Project) Implicit Accommodation and Romantic Relationship Longevity
+    * (Project) The CORE Personality and Aptitude Psychological Assessments
+  location: Seoul
+  title: Clinical Psychology Master’s Program Student
 
 ---
