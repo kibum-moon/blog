@@ -14,12 +14,12 @@ education:
     
 email: "a072826@gmail.com"
 interests:
-- Positive Psychology
 - Mental well-being
-- Measurements
-- Data Psychology
-- Emotions
+- Happiness
+- Emotion
 - Interpersonal Relationships
+- ML/DL
+- Psychological Measurements
 
 organizations:
 - name: Korea University

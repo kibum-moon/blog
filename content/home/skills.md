@@ -15,17 +15,17 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  # description = "90%"
-  
-[[feature]]
   icon = "python"
   icon_pack = "fab"
   name = "Python"
   # description = "90%"
 
+[[feature]]
+  icon = "r-project"
+  icon_pack = "fab"
+  name = "R"
+  # description = "90%"
+  
 [[feature]]
   icon = "database"
   icon_pack = "fas"
@@ -39,9 +39,9 @@ subtitle = ""
   # description = "100%"  
   
 [[feature]]
-  icon = "paint-brush"
-  icon_pack = "fas"
-  name = "Data Visualization"
+  icon = "deep-learning"
+  icon_pack = "custom"
+  name = "Deep Learning & Prediction Models"
   # description = "100%"  
 
 [[feature]]
