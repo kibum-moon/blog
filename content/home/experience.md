@@ -58,7 +58,8 @@ experience:
   date_end: "2019-01-31"
   date_start: "2018-05-01"
   description: |-
-  * 
+  * (Project) _Validation of the Korean Version of Positive Mental Health Scales_
+  * (Project) _The Effects of Ego Depletion and Psychological Burden on Fatigue in Everyday Life_
   
   
   location: Seoul
