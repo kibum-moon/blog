@@ -42,9 +42,9 @@ experience:
   date_end: "2019-09-30"
   date_start: "2019-02-01"
   description: |-
-    * (Project) Mental Fitness Program - Positive Psychological-Based Intervention  
-    * (Project) Visualizing Self-image Using Reverse Correlation Method
-    * (Project) Borderline Personality Features and Emotional Recovery
+* (Project) Mental Fitness Program - Positive Psychological-Based Intervention  
+* (Project) Visualizing Self-image Using Reverse Correlation Method
+* (Project) Borderline Personality Features and Emotional Recovery
 
   location: Seoul
   title: Clinical Researcher
