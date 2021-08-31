@@ -31,10 +31,9 @@ experience:
   date_end: ""
   date_start: "2019-10-01"
   description: |-
-    * (Project) *Recommendation System based on ML/DL in Higher Education* 
-      <br>The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
+    * (Project) *Recommendation System based on ML/DL in Higher Education* The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
     
-    * (Project) *Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data*
+    * (Project) *Early Prediction Model of Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data*
 
   location: Seoul
   title: Data Scientist
@@ -44,9 +43,9 @@ experience:
   date_end: "2019-09-30"
   date_start: "2019-02-01"
   description: |-
-    * (Project) *Mental Fitness Program: Positive Psychology-Based Intervention*
-    * (Project) _Visualizing Self-image Using Reverse Correlation Method_
-    * (Project) _Borderline Personality Features and Emotional Recovery_
+    * (Project) Mental Fitness Program: Positive Psychology-Based Intervention
+    * (Project) Visualizing Self-image Using Reverse Correlation Method
+    * (Project) Borderline Personality Features and Emotional Recovery
 
   location: Seoul
   title: Clinical Research Assistant
@@ -57,8 +56,8 @@ experience:
   date_end: "2019-01-31"
   date_start: "2018-05-01"
   description: |-
-  * (Project) _Validation of the Korean Version of Positive Mental Health Scales_
-  * (Project) _The Effects of Ego Depletion and Psychological Burden on Fatigue in Everyday Life_
+  * (Project) Validation of the Korean Version of Positive Mental Health Scales
+  * (Project) The Effects of Ego Depletion and Psychological Burden on Fatigue in Everyday Life
   
   location: Seoul
   title: Post-Master Research Associate  
@@ -71,7 +70,7 @@ experience:
   description: aa
   location: Seoul
   title: Clinical Psychology Master’s Program Student
-  * (Project) _Implicit Accommodation and Romantic Relationship Longevity_
-  * (Project) _The  CORE Personality and Aptitude Psychological Assessments_
-
+  * (Project) Implicit Accommodation and Romantic Relationship Longevity
+  * (Project) The  CORE Personality and Aptitude Psychological Assessments
+  
 ---
