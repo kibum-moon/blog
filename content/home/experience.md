@@ -31,8 +31,10 @@ experience:
   date_end: ""
   date_start: "2019-10-01"
   description: |-
-    * (Project) *Recommendation System based on ML/DL in Higher Education*
-        |- * The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
+    * (Project) *Recommendation System based on ML/DL in Higher Education* 
+
+        * -- The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
+    
     * (Project) *Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data*
 
   location: Seoul
@@ -43,7 +45,9 @@ experience:
   date_end: "2019-09-30"
   date_start: "2019-02-01"
   description: |-
-    * 
+    * (Project) *Mental Fitness Program: Positive Psychology-Based Intervention*
+    * (Project) _Visualizing Self-image Using Reverse Correlation Method_
+    * (Project) _Borderline Personality Features and Emotional Recovery_
 
   location: Seoul
   title: Clinical Research Assistant
@@ -54,10 +58,8 @@ experience:
   date_end: "2019-01-31"
   date_start: "2018-05-01"
   description: |-
-    * Conducted and interpreted 100+ cases of psychological assessments – they include MMPI, the Rorschach Inkblot Test, Defense Mechanism Interview, Career Aptitude Assessment. 
-    * Conducted 10+ cases of individual and group counseling – Positive psychology-based program (Mental-Fitness Program)
-    * Performed psychological experiments
-    * Managed a government-funded project (the CORE Project)
+  * 
+  
   
   location: Seoul
   title: Post-Master Research Associate  
