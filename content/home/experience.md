@@ -67,10 +67,10 @@ experience:
   company_url: ""
   date_end: "2018-02-28"
   date_start: "2015-09-01"
-  description: aa
-  location: Seoul
-  title: Clinical Psychology Master’s Program Student
+  description: |-
   * (Project) Implicit Accommodation and Romantic Relationship Longevity
   * (Project) The  CORE Personality and Aptitude Psychological Assessments
+  location: Seoul
+  title: Clinical Psychology Master’s Program Student
   
 ---
