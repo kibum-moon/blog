@@ -31,9 +31,9 @@ experience:
   date_end: ""
   date_start: "2019-10-01"
   description: |-
-    * (Project) Recommendation System based on ML/DL in Higher Education
-        * The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
-    * (Project) Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data
+    * (Project) *Recommendation System based on ML/DL in Higher Education*
+        |- * The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
+    * (Project) *Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data*
 
   location: Seoul
   title: Data Scientist
@@ -43,13 +43,10 @@ experience:
   date_end: "2019-09-30"
   date_start: "2019-02-01"
   description: |-
-    * Built an online system to conduct psychological assessments and provide personalized interpretations
-    * Provided positive psychology intervention for high school and college students – created a dashboard application for teachers to visually inspect social networks of the classroom
-    * Developed and validated a novel psychological assessment to visualize mental representation of self-image through the reverse correlation method
-    * Hosted R programming workshops for psychological researchers and counselors
+    * 
 
   location: Seoul
-  title: Clinical Researcher
+  title: Clinical Research Assistant
 
 
 - company: Mentoring Counseling Center, College of Liberal Arts, Korea University
