@@ -32,8 +32,7 @@ experience:
   date_start: "2019-10-01"
   description: |-
     * (Project) *Recommendation System based on ML/DL in Higher Education* 
-
-        * -- The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
+      <br>The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
     
     * (Project) *Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data*
 
@@ -60,7 +59,6 @@ experience:
   description: |-
   * (Project) _Validation of the Korean Version of Positive Mental Health Scales_
   * (Project) _The Effects of Ego Depletion and Psychological Burden on Fatigue in Everyday Life_
-  
   
   location: Seoul
   title: Post-Master Research Associate  
