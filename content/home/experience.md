@@ -31,11 +31,9 @@ experience:
   date_end: ""
   date_start: "2019-10-01"
   description: |-
-    *	Developed AI based models that provide personalized recommendations on course/major selection – the first case among universities in South Korea 
-    * Developed an automatized assessment model to monitor students’ psychological adaptation
-    * Contributed to rise in the QS World University Rankings of Korea University (83rd to 69th) by proposing a strategy based on analysis of reputation data
-    * Conducted optimal balance analyses to support college policy decision-making – improving course enrollment policy, calculating the optimal admission ratio of foreign students
-    * Hosted R programming and advanced statistics workshops for administrative officers
+    * (Project) Recommendation System based on ML/DL in Higher Education
+        * The system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs
+    * (Project) Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data
 
   location: Seoul
   title: Data Scientist

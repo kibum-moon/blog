@@ -14,12 +14,12 @@ education:
     
 email: "a072826@gmail.com"
 interests:
+- Positive Psychology
+- Mental well-being
 - Measurements
 - Data Psychology
 - Emotions
 - Interpersonal Relationships
-- Self-image
-- Positive Psychology
 
 organizations:
 - name: Korea University
@@ -55,7 +55,7 @@ user_groups:
 
 I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. I am interested in developing data-driven assessment tools to elucidate the subtle aspects of personality, emotion, and quality of relationship.
 
-I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in a series of AI projects. The present project focuses on building an automatic assessment model to monitor students’ psychological adaptation.
+I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in a series of AI projects. The present project focuses on developing the early prediction model of academic achievement and mental health of college students using the massive LMS data.
 
 Prior to this position, I was a clinical researcher at the students counseling center of Korea University, conducting research on developing and validating psychological measurements, and developing an automatized psychological reporting system from the scratch. 
 
