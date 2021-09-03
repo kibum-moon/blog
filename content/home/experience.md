@@ -31,9 +31,22 @@ experience:
   date_end: ""
   date_start: "2019-10-01"
   description: |-
-    (Project) Developed Recommendation Systems based on ML/DL 
+    (Project) Developed Recommendation Systems based on ML/DL
     * One of two representative programs of Korea University for _the_ _(government-funded) University Innovation Support Project_.
+    * The recommendation system provided personalized recommendations of lectures, majors, and extra-curricular activities for college students to help them explore broader fields and find the right choice that fits their needs. This project has been covered by 10+ media outlets as the very first case in South Korea.
+    * Primary responsibilities included conducting educational big-data mining, developing core recommendation algorithms based on ML/DL techniques (_TF-IDF, Bayesian probability, cosine similarity, UMAP, and GCN, etc._), applying for two patents as a primary inventor, writing a manuscript for publication.
     (Project) Early Prediction Model of Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data
+    * Investigation to develop early prediction models of college students’ academic achievement and mental health based on Recurrent Neural networks using massive log data in the Learning Management System (LMS).
+
+---
+
+ [\[문직/데\]1\]](#_msoanchor_1)매일매일  하는  일
+
+Monthly newletter 편집 & 교내  빅데이터를  활용한  기사  작성
+
+Yearly 보고서 for 대학  정책  작성
+
+온디맨드  데이터  분석  컨설팅  및  대시보드  작성
 
   location: Seoul
   title: Data Scientist
