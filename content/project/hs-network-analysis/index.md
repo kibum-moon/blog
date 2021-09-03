@@ -5,6 +5,7 @@ date: "2019-04-10"
 draft: false
 featured: false
 lastmode: "2019-04-10"
+weight: 3
 
 image:
   caption: 'Click for the App: [**HS Junior High School Network Analysis**](https://a072826.shinyapps.io/hwasoon_network/)'
