@@ -38,16 +38,6 @@ experience:
     (Project) Early Prediction Model of Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data
     * Investigation to develop early prediction models of college students’ academic achievement and mental health based on Recurrent Neural networks using massive log data in the Learning Management System (LMS).
 
----
-
- [\[문직/데\]1\]](#_msoanchor_1)매일매일  하는  일
-
-Monthly newletter 편집 & 교내  빅데이터를  활용한  기사  작성
-
-Yearly 보고서 for 대학  정책  작성
-
-온디맨드  데이터  분석  컨설팅  및  대시보드  작성
-
   location: Seoul
   title: Data Scientist
   
