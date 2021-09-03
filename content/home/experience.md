@@ -38,7 +38,7 @@ experience:
     * Primary responsibilities included developing recommender algorithms using ML/DL techniques (_NLP, Bayesian probability, cosine similarity, UMAP, and GCN, etc._) and applying for two patents as a primary inventor.
     * This project was awarded as one of two representative programs of Korea University for _the_ (_government-funded_) _University Innovation Support Project_ and covered by +10 media outlets as the first case of the official AI service provided by university in South Korea.
 
-    /n
+
     **Project:** _Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data_
     * Investigation to develop early prediction models of college students’ academic achievement and mental health based on Recurrent Neural networks using massive log data in the Learning Management System (LMS).
 
