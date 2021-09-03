@@ -34,7 +34,7 @@ experience:
   (Project) Developed Recommendation Systems based on ML/DL
 * One of two representative programs of Korea University for _the_ _(government-funded) University Innovation Support Project_.
   
-  <br>(Project) Early Prediction Model of Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data
+  (Project) Early Prediction Model of Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data
 
   location: Seoul
   title: Data Scientist
