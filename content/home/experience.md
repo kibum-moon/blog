@@ -30,17 +30,18 @@ experience:
   company_url: ""
   date_end: ""
   date_start: "2019-10-01"
+  location: Seoul
+  title: Data Scientist
   description: |-
-    (Project) _AIKU: Recommendation System based on ML/DL in the Context of Higher Education_
+    **Project:** _AIKU: Recommendation System based on ML/DL in the Context of Higher Education_
     * AIKU provides recommendations of lectures, majors, and extra-curricular activities for college students that fit individual needs.
     * Primary responsibilities included developing recommender algorithms using ML/DL techniques (_NLP, Bayesian probability, cosine similarity, UMAP, and GCN, etc._) and applying for two patents as a primary inventor.
     * This project was awarded as one of two representative programs of Korea University for _the_ (_government-funded_) _University Innovation Support Project_ and covered by +10 media outlets as the first case of the official AI service provided by university in South Korea.
-    |-
-    (Project) _Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data_
+
+    /n
+    **Project:** _Early Prediction Model_ of _Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data_
     * Investigation to develop early prediction models of college students’ academic achievement and mental health based on Recurrent Neural networks using massive log data in the Learning Management System (LMS).
 
-  location: Seoul
-  title: Data Scientist
   
 - company: Student Counseling Center, Korea University
   company_url: ""
