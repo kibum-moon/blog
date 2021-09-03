@@ -5,6 +5,7 @@ date: "2020-08-01"
 draft: false
 featured: false
 lastmode: "2020-08-01"
+weight: 4
 
 
 image:
