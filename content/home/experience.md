@@ -30,8 +30,7 @@ experience:
   company_url: ""
   date_end: ""
   date_start: "2019-10-01"
-  description: |-
-    * (Project) Developed Recommendation Systems based on ML/DL
+  description: * (Project) Developed Recommendation Systems based on ML/DL
     * (Project) Early Prediction Model of Academic Achievement and Mental Health of College Students Based on Deep Neural Networks Using Online Learning Big Data
 
   location: Seoul
