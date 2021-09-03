@@ -6,6 +6,7 @@ draft: false
 featured: false
 lastmode: "2020-09-08"
 category: ['Web-App']
+weight: 1
 
 
 image:
