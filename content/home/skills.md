@@ -1,3 +1,4 @@
+
 +++
 # A Skills section created with the Featurette widget.
 widget = "featurette"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -30,16 +31,14 @@ subtitle = ""
   name = "SQL"
 
 [[feature]]
-  icon = "chart-line"
-  icon_pack = "fas"
-  name = "Prediction & Deep Learning"
-
-[[feature]]
   icon = "code"
   icon_pack = "fas"
   name = "Statistics & Machine Learning"
 
-# name = "Prediction & Deep Learning"
+[[feature]]
+  icon = "chart-line"
+  icon_pack = "fas"
+  name = "Prediction & Deep Learning"
 
 [[feature]]
   icon = "clipboard-list"
