@@ -31,14 +31,14 @@ subtitle = ""
   name = "SQL"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "chart-bar"
   icon_pack = "fas"
   name = "Statistics & Machine Learning"
 
 [[feature]]
   icon = "file-contract"
   icon_pack = "fas"
-  name = "Prediction & Deep Learning"
+  name = "Deep Learning & Prediction Model"
 
 [[feature]]
   icon = "clipboard-list"
