@@ -39,7 +39,7 @@ subtitle = ""
   # description = "100%"  
   
 [[feature]]
-  icon = " fa-brain"
+  icon = " bullseye-arrow"
   icon_pack = "fas"
   name = "Deep Learning & Prediction Models"
   # description = "100%"  
