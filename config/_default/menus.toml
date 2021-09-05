@@ -14,27 +14,27 @@
 [[main]]
   name = "Publications"
   url = "#featured"
-  weight = 40
+  weight = 1
 
 [[main]]
   name = "Experience"
   url = "#experience"
-  weight = 50
+  weight = 2
 
 [[main]]
   name = "Portfolio"
   url = "#projects"
-  weight = 60
+  weight = 3
 
 [[main]]
   name = "Skills"
   url = "#skills"
-  weight = 60
+  weight = 4
 
 [[main]]
   name = "CV"
   url = "files/CV_KIBUM_MOON.pdf"
-  weight = 11
+  weight = 5
 
 
 #[[main]]
