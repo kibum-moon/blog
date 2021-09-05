@@ -32,8 +32,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
-  name = "Statistics & Machine Learning"
-
+  name = "Prediction & Deep Learning"
 
 [[feature]]
   icon = "code"
