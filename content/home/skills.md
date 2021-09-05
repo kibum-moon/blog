@@ -31,12 +31,12 @@ subtitle = ""
   name = "SQL"
 
 [[feature]]
-  icon = "code"
+  icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics & Machine Learning"
 
 [[feature]]
-  icon = "chart-line"
+  icon = "bullseye-arrow"
   icon_pack = "fas"
   name = "Prediction & Deep Learning"
 
