@@ -45,7 +45,7 @@ subtitle = ""
   # description = "100%"  
 
 [[feature]]
-  icon = "clipboard-list"
+  icon = "code"
   icon_pack = "fas"
   name = "Psychological Assessment"
   # description = "100%"  
