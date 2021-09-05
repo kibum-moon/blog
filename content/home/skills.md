@@ -36,7 +36,7 @@ subtitle = ""
 
 
 [[feature]]
-  icon = "chart-line"
+  icon = "code"
   icon_pack = "fas"
   name = "Statistics & Machine Learning"
 
