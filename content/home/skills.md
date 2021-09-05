@@ -39,7 +39,7 @@ subtitle = ""
   # description = "100%"  
 
 [[feature]]
-  icon = " chart-line"
+  icon = " code"
   icon_pack = "fas"
   name = "Deep Learning & Prediction"
   # description = "100%"  
