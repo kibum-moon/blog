@@ -1,5 +1,5 @@
 ---
-title: 'The Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Dat'
+title: 'The Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Data'
 publication: '*Journal of the Korea Contents Association*'
 date: "2021-09-05"
 doi: ""
@@ -26,10 +26,9 @@ authors:
   - Jinwon Kim
   - Jinsook Lee
 
-
 url_code: ''
 url_dataset: 
-url_pdf: https://kibum-moon.netlify.app/publications/early_prediction_model_of_student_performance.pdf
+url_pdf: https://kibum-moon.netlify.app/publication/early_prediction_model_of_student_performance.pdf
 url_poster: ''
 url_project: ''
 url_slides: ''

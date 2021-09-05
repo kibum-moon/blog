@@ -1,34 +1,40 @@
 ---
-abstract: 'The purpose of this study was to validate the Korean Version of the Adolescent Positive Health Scale. The confirmatory factor analysis was conducted with 1,668 adolescents (960 middle school students and 708 high school students) who completed the Korean Version of the Adolescent Positive Health Scale. Convergent and discriminant validity were investigated using an independent sample of 189 adolescents (99 middle school students and 90 high school students) who responded to the following questionnaires: the Korean Version of the Adolescent Positive Health Scale, the School Adjustment Scale, the Ego Strength Scale, and the Social Support Appraisal Scale. The results showed that reliability coefficients (Cronbach’s α) of the Korean Version of the Adolescent Positive Health Scale were .92 for the mental well-being factor and .82 for the psychological maladjustment factor. According to the confirmatory factor analysis, a model with the correlation between the mental well-being and psychological maladjustment factor evidenced a better fit than a model without correlation between the two factors. The Mental Well-being Scale positively correlated with the School Adjustment Scale, the Ego Strength Scale, and the Social Support Appraisal Scale while the Psychological Maladjustment Scale negatively correlated with those scales. Based on these findings, it was discussed that a longitudinal study would be necessary to investigate the effects of positive mental health type on the prevention of mental disorders and process of recover'
+title: 'Development and Application of an AI-Powered Adaptive Course Recommender System in Higher Education: An Example from K University'
+
+abstract: This paper outlines the development process of an AI-based elective course recommendation system on the basis of rapid prototype methodology (RP), from algorithm modeling to development of a user interface and follow-up survey. The algorithms used to produce recommendations employed either user-based collaborative filtering or a class history-based statistical model, incorporating students ’ course ratings and course enrollment history data. The system was implemented on the campus portal website in July 2020, and a satisfaction survey was conducted. Our results, based on 782 responses, demonstrated that the statistical-based model had significantly higher satisfaction than the collaborative filtering model. However, a follow-up survey based on course wish list and course registration data found that Recall@21 for the collaborative filtering model was about 37% and 43%, respectively, compared with 18% and 14%, respectively, for the statistical-based model. Thus, we found a difference between satisfaction with the recommended list and actual course behavior. In their responses, students regarded their academic interests as the top priority when choosing elective courses, and noted that keywords, capable of fully describing the lectures, were vital information due to ambiguous course titles. This study is expected to contribute to the further development and real application of AI-based recommendation systems in Korean higher education institutions.
+
 authors:
-  - Jin-young Kim
+  - Jinsook Lee
   - admin
-  - Young-gun Ko
+  - Suyeon Han
+  - Sukang Lee
+  - Hyejung Kwon
+  - Jaeho Han
+  - Gyutae Kim
   
-date: "2020-05-06"
-doi: "10.17315/kjhp.2020.25.4.012"
+date: "2021-06-30"
+doi: "10.17232/KSET.37.2.267"
 featured: false
 image:
   caption: 
   focal_point: ""
   preview_only: false
 projects:
-publication: '*The Korean Journal of Health Psycholog, 25*(4)'
+publication: '*Journal of Educational Technology, 37*(2)'
 publication_short: ""
 publication_types:
 - "2"
-publishDate: "2020-05-06"
+publishDate: "2021-06-30"
 summary: 
 tags:
-- adolescents
-- positive mental health
-- mental well-being
-- psychological maladjustment
-- mental disorde
-title: 'A Validation of the Korean Version of Adolescent Positive Mental Health Scale'
+- artificial inteligence
+- recommender system
+- adaptive learning
+- higher education
+- rapid prototyping
 url_code: 
 url_dataset: 
-url_pdf: 
+url_pdf: https://kibum-moon.netlify.app/publication/ai_powered_adaptive_course_recommender_system.pdf
 url_poster: ''
 url_project: ''
 url_slides: ''
