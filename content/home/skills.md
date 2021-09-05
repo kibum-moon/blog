@@ -32,13 +32,18 @@ subtitle = ""
   name = "SQL"
   # description = "90%"
 
-
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics & Machine Learning"
   # description = "100%"  
-  
+
+[[feature]]
+  icon = " chart-line"
+  icon_pack = "fas"
+  name = "Deep Learning & Prediction"
+  # description = "100%"  
+
 [[feature]]
   icon = "clipboard-list"
   icon_pack = "fas"
