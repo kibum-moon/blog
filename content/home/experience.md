@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 30
+weight: 10
 
 title: Experience
 subtitle:
@@ -24,6 +24,14 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
+
+design:
+  background:
+    image: background-network.jpg
+    image_size: cover
+    image_darken: 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    image_parallax: true
+    text_color_light: true
 
 experience:
 - company: Office of Digital Information, Korea University
