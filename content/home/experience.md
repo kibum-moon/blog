@@ -25,13 +25,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 
-design:
-  background:
-    image: background-network.jpg
-    image_size: cover
-    image_darken: 0.9  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
-    image_parallax: true
-    text_color_light: true
+# design:
+#  background:
+#    image: background-network.jpg
+#    image_size: cover
+#    image_darken: 0.9  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+#    image_parallax: true
+#    text_color_light: true
 
 experience:
 - company: Office of Digital Information, Korea University

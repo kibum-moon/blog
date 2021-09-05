@@ -42,7 +42,7 @@ design:
   background:
     image: background-network.jpg
     image_size: cover
-    image_darken: 0.6  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
+    image_darken: 0.2  # Darken the image? Range 0-1 where 0 is transparent and 1 is opaque.
     image_parallax: true
     text_color_light: true
 
