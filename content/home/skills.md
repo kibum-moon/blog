@@ -34,6 +34,7 @@ subtitle = ""
   icon_pack = "fas"
   name = "Statistics & Machine Learning"
 
+
 [[feature]]
   icon = " code"
   icon_pack = "fas"
