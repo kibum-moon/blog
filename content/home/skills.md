@@ -18,37 +18,31 @@ subtitle = ""
   icon = "python"
   icon_pack = "fab"
   name = "Python"
-  # description = "90%"
 
 [[feature]]
   icon = "r-project"
   icon_pack = "fab"
   name = "R"
-  # description = "90%"
   
 [[feature]]
   icon = "database"
   icon_pack = "fas"
   name = "SQL"
-  # description = "90%"
 
 [[feature]]
   icon = "chart-line"
   icon_pack = "fas"
   name = "Statistics & Machine Learning"
-  # description = "100%"  
 
 [[feature]]
   icon = " code"
   icon_pack = "fas"
-  name = "Deep Learning & Prediction"
-  # description = "100%"  
+  name = "Prediction & Deep Learning"
 
 [[feature]]
-  icon = "code"
+  icon = "clipboard-list"
   icon_pack = "fas"
   name = "Psychological Assessment"
-  # description = "100%"  
 
 
 # Uncomment to use emoji icons.
