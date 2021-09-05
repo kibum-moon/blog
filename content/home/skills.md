@@ -36,7 +36,7 @@ subtitle = ""
   name = "Statistics & Machine Learning"
 
 [[feature]]
-  icon = "bullseye-arrow"
+  icon = "bullseye"
   icon_pack = "fas"
   name = "Prediction & Deep Learning"
 
