@@ -5,7 +5,7 @@ education:
   - course: M.A. in Clinical Psychology
     institution: Korea University
     year: 2018
-  - course: B.A in Psychology
+  - course: B.A. in Psychology
     institution: Korea University
     year: 2015
   - course: Exchange student
@@ -50,7 +50,6 @@ title: Kibum Moon
 
 user_groups:
 - Principal Investigators
-
 ---
 
 I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. I am interested in developing data-driven assessment tools to elucidate the subtle aspects of personality, emotion, and quality of relationship.
