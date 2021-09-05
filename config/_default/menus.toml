@@ -12,11 +12,6 @@
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 
 [[main]]
-  name = "CV"
-  url = "files/CV_KIBUM_MOON.pdf"
-  weight = 11
-
-[[main]]
   name = "Publications"
   url = "#featured"
   weight = 40
@@ -31,6 +26,15 @@
   url = "#projects"
   weight = 60
 
+[[main]]
+  name = "Skills"
+  url = "#skills"
+  weight = 60
+
+[[main]]
+  name = "CV"
+  url = "files/CV_KIBUM_MOON.pdf"
+  weight = 11
 
 
 #[[main]]
