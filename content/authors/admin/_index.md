@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Korea University
   url: https://data.korea.ac.kr
-role: Data Psychologist <br> Fulbright Scholarship Candidate
+role: Data Psychologist <br> Fulbright Pricipal Candidate
 
 social:
 #- icon: envelope
@@ -52,11 +52,13 @@ user_groups:
 - Principal Investigators
 ---
 
-I am a Data Psychologist. My research tries to find the best ways to incorporate data science techniques into psychological research. I am interested in developing data-driven assessment tools to elucidate the subtle aspects of personality, emotion, and quality of relationship.
+I am a Data Psychologist.
 
-I am currently working as a data scientist at the Office of Digital Information of Korea University, participating in a series of AI projects. The present project focuses on developing the early prediction model of academic achievement and mental health of college students using the massive LMS data.
+I am interested in positive emotions, social relationships, and their associations with happier and healthier lives of people.  
 
-Prior to this position, I was a clinical researcher at the students counseling center of Korea University, conducting research on developing and validating psychological measurements, and developing an automatized psychological reporting system from the scratch. 
+My research aims to make Psychological research and interventions more efficient and accessible to broader populations, especially for those who have been marginalized with traditional methods. 
+
+To this end, I hope to develop automated measuring methods by leveraging data science, to discover many untouched possibilities in the field that I love - Psychology. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_KIBUM_MOON.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
