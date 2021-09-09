@@ -24,7 +24,7 @@ interests:
 organizations:
 - name: Korea University
   url: https://data.korea.ac.kr
-role: Data Psychologist <br> Fulbright Pricipal Candidate
+role: Data Psychologist <br> Fulbright Principal Candidate
 
 social:
 #- icon: envelope
