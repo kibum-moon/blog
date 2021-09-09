@@ -56,7 +56,7 @@ I am a Data Psychologist.
 
 I am interested in positive emotions, social relationships, and their associations with happier and healthier lives of people.  
 
-My research aims to make psychological research and interventions more efficient and accessible to broader populations, especially for those who have been marginalized with traditional methods. 
+My research aims to make psychological services and interventions more efficient and accessible to broader populations, especially for those who have been marginalized with traditional methods. 
 
 To this end, I hope to develop automated measuring methods by leveraging data science, to discover many untouched possibilities in the field that I love - Psychology. 
 
