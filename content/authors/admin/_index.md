@@ -56,12 +56,11 @@ social:
 
 ---
 
+Most of the things that fascinate me usually exist in between people. I've cultivated my expertise in positive emotions, close relationships, and their associations with mental and physical well-being. I aim to help people live happier and healthier lives by expending expending my understanding of human experience.
 
-I am a data psychologist whose goal is to become a helpful do-gooder by doing good. Most of the things that fascinate me usually exist between people and people. I hone my expertise in positive emotions, close relationships, and their associations with mental and physical well-being, so that my unstoppable curiosity about others can be beneficial to make them live happier and healthier lives. 
+During my 5 years of dedication as a group leader and project organizer of the "Mental Fitness Program", a positive psychology-based intervention, I experienced meaningful changes that I made in other's lives. 
 
-During my 5 years of dedication as a group leader and project organizer of the "Mental Fitness Program", a positive psychology-based intervention, I was delighted with the meaningful changes that I made in other's lives. 
-
-Recently, with 2 years of experience as a data scientist, I have been enthralled by discovering many untouched possibilities of making psychology more efficient and more accessible, even for those who have been marginalized with traditional practices, by leveraging big data and ML/DL algorithms. 
+Recently, with 2 years of experience as a data scientist, I have been enthralled by discovering many untouched possibilities to make psychology more effective and more accessible by leveraging big data and ML/DL algorithms. I believe these approaches especially useful for those who are marginalized from traditional practices. 
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_KIBUM_MOON.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
