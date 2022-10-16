@@ -10,7 +10,7 @@ weight: 1
 
 
 image:
-  caption: 'Click for the App: [**The Constellations of Books**](https://koreauniv-datahub.shinyapps.io/constell_of_book/)'
+  caption: 'Click for the App: [**The Constellations of Books**](https://koreauniv-datahub.shinyapps.io/constell_of_books/)'
   focal_point: ""
   placement: 2
   preview_only: false
