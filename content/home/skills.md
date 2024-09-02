@@ -33,7 +33,7 @@ subtitle = ""
 [[feature]]
   icon = "chart-bar"
   icon_pack = "fas"
-  name = "Statistics & Machine Learning"
+  name = "Statistics & <br> Machine Learning"
 
 [[feature]]
   icon = "file-contract"

@@ -2,29 +2,28 @@
 bio: Doing good to be a wise and helpful do-gooder 
 education:
   courses:
+  - course: Ph.D in Psychology
+    institution: Georgetown University
+    year: 2022 – present
+  - course: M.A. in Public Policy
+    institution: Georgetown University
+    year: 2024
   - course: M.A. in Clinical Psychology
     institution: Korea University
     year: 2018
   - course: B.A. in Psychology
     institution: Korea University
     year: 2015
-  - course: Exchange student
-    institution: University of New South Wales
-    year: 2014
-    
-email: "a072826@gmail.com"
+
+email: "km1735@georgetown.edu"
 interests:
-- Mental well-being
-- Happiness
-- Emotion
-- Interpersonal Relationships
-- ML/DL
-- Psychological Measurements
+- AI & Creativity
+- Computational Psychology
+- Technology & Well-being
 
 organizations:
-- name: Korea University
-  url: https://data.korea.ac.kr
-role: Data Psychologist <br> Fulbright Principal Candidate
+- name: Georgetown University
+role: Ph.D. Student
 
 superuser: true
 title: Kibum Moon
@@ -56,10 +55,5 @@ social:
 
 ---
 
-Most of the things that fascinate me usually exist in between people. I've cultivated my expertise in positive emotions, close relationships, and their associations with mental and physical well-being. I aim to help people live happier and healthier lives by expending my understanding of human experience.
-
-During my 5 years of dedication as a group leader and project organizer of the "Mental Fitness Program", a positive psychology-based intervention, I experienced meaningful changes that I made in other's lives. 
-
-Recently, with 2 years of experience as a data scientist, I have built unique perspectives to find untouched possibilities to make psychology more effective and more accessible by leveraging big data and ML/DL algorithms. 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_KIBUM_MOON.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.

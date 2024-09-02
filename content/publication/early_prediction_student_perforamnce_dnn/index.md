@@ -2,7 +2,7 @@
 title: 'The Early Prediction Model of Student Performance Based on Deep Neural Network Using Massive LMS Log Data'
 publication: '*Journal of the Korea Contents Association*'
 date: "2021-09-05"
-doi: ""
+doi: "https://doi.org/10.5392/JKCA.2021.21.10.001"
 featured: false
 image:
   caption: 
