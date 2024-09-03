@@ -56,4 +56,4 @@ social:
 ---
 
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "files/CV_KIBUM_MOON.pdf" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "https://drive.google.com/file/d/1ogOO1HHNuTM9tr_bj7mLy00O8AgM05gX/view?usp=sharing" "newtab" >}}Curriculum Vitae{{< /staticref >}}.
